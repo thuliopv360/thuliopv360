@@ -19,6 +19,11 @@
 </div>
   
   ##
+<div>
+  <img align="right" alt="Thulio-Matrix" height="200" width="200" src="https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
+</div>
+  
+  ##
   
 <div> 
   <a href="https://www.youtube.com/channel/UCjXqck_2bqjS4zds308PBxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
