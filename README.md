@@ -32,8 +32,8 @@
   <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="23px" />
  </div>
   
-<div>
-  <img align="right" alt="Thulio-Matrix" height="200" width="200" src="https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
+<div align="right">
+  <img  alt="Thulio-Matrix" height="200" width="200" src="https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
 </div>
   
   ##
