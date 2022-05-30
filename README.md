@@ -49,7 +49,10 @@
 </div>
 
 <div>
-  <h3>Porjeto feito na blue ed tech</h3>
+  <h3>Projetos feito na blue ed tech</h3>
   <a href="https://catalogo-projeto03blueedtech.onrender.com/" target="_blank" align="left">Catalogo</a>
+  
+  ##
+  
   <a href="https://projetopokedex-blue.onrender.com/" target="_blank" align="right">Pokedex</a>
 </div>
