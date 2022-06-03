@@ -55,4 +55,10 @@
   ##
   
   <a href="https://projetopokedex-blue.onrender.com/" target="_blank" align="right">Pokedex</a>
+  
+  ##
+  
+  <a href="https://elgeladonvanila.netlify.app/" target="_blank" align="right">El Geladon</a>
+  
+  ##
 </div>
