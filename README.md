@@ -21,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="23px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="23px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="23px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="23px" />
   </div>
   <div align="center">
  🛢 Database - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="23px" /> 
@@ -30,6 +31,7 @@
  🔧 Tools - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="23px" /> 
   <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="23px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="23px" />        
  </div>
   
 <div align="right">
