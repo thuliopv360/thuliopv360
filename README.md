@@ -28,6 +28,7 @@
   <div align="center">
  🛢 Database - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="23px" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="23px" />  
+    <img src="https://devicons.railway.app/i/prisma-dark.svg" height="23px" /> 
   </div>
   <div align="center">
  🔧 Tools - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23px" />
