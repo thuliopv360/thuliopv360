@@ -2,8 +2,10 @@
 <h3>Eu sou Thulio Paiva</h3>
 <h4>E sou iniciante no ramo da programacao</h4>
 
-  <a href="https://www.linkedin.com/in/dekao-fps-b8a03920b/">Linkedin</a>
-##
+##  [LinkedIn](https://www.linkedin.com/in/dekao-fps-b8a03920b/)
+
+## [Portfólio](https://portfoliohtml.vercel.app/)
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuliopv360&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
