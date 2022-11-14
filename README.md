@@ -1,6 +1,5 @@
 <h1 >Ola</h1>
 <h3>Eu sou Thulio Paiva</h3>
-<h4>E sou iniciante no ramo da programacao</h4>
 
 ##  [LinkedIn](https://www.linkedin.com/in/dekao-fps-b8a03920b/)
 
